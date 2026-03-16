@@ -1,6 +1,6 @@
 # Card Dump Parser (Termux Guide)
 
-Panduan singkat ini menjelaskan cara mengambil repository **hamsazzad/Card-dump-parser** lalu melakukan proses build dan run di **Termux** (Android).
+Panduan singkat ini menjelaskan cara mengambil repository target lalu melakukan proses build dan run di **Termux** (Android).
 
 ## 1) Persiapan di Termux
 
@@ -12,7 +12,7 @@ pkg install -y git openjdk-17
 ```
 
 > Catatan:
-> - Jika project membutuhkan Gradle wrapper (`./gradlew`), Java 17 umumnya sudah cukup untuk build Android modern.
+> - Jika Project membutuhkan Gradle wrapper (`./gradlew`), Java 17 umumnya sudah cukup untuk build Android modern.
 > - Pastikan ruang penyimpanan cukup karena proses build Android bisa besar.
 
 ## 2) Clone Repository
