@@ -12,7 +12,7 @@ pkg install -y git openjdk-17
 ```
 
 > Catatan:
-> - Jika Project membutuhkan Gradle wrapper (`./gradlew`), Java 17 umumnya sudah cukup untuk build Android modern.
+> - Jika project membutuhkan Gradle wrapper (`./gradlew`), Java 17 umumnya sudah cukup untuk build Android modern.
 > - Pastikan ruang penyimpanan cukup karena proses build Android bisa besar.
 
 ## 2) Clone Repository
